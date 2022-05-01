@@ -75,8 +75,8 @@
     <meta name="generator" content="Ghost 4.45" />
     <link rel="alternate" type="application/rss+xml" title="Truth &amp; Transparency" href="https://www.truthandtransparency.org/rss/" />
     
-    <script defer src="/public/cards.min.js?v=a4b690a1f9"></script>
-    <link rel="stylesheet" type="text/css" href="/public/cards.min.css?v=a4b690a1f9">
+    <script defer src="/public/cards.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/public/cards.min.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109335275-1"></script>
 <script>
