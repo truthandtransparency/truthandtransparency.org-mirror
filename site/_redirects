@@ -1,0 +1,4 @@
+# FaithLeaks redirects
+https://faithleaks.org/wiki/* https://www.truthandtransparency.org/press/2020/07/20/truth-transparency-settles-with-watch-tower/ 301
+https://faithleaks.org/newsroom/* https://www.truthandtransparency.org/news/:splat 301!
+https://faithleaks.org/* https://www.truthandtransparency.org/tag/faithleaks/ 301!
