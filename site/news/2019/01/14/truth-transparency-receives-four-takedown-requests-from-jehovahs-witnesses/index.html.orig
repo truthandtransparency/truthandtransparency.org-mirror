@@ -326,8 +326,8 @@
 	</div>
 </div>		<script>var searchApi = "https://www.truthandtransparency.org/ghost/api/v3/content/posts/?key=3e7af4e0069eca868f5932629f
 &limit=all&fields=id,title,excerpt,custom_excerpt,url,published_at&formats=plaintext";</script>
-		<script src="https://www.truthandtransparency.org/assets/js/app.bundle.min.js?v=a4b690a1f9"></script>
-		<script src="https://www.truthandtransparency.org/assets/js/lazysizes.min.js?v=a4b690a1f9"></script>
+		<script src="https://www.truthandtransparency.org/assets/js/app.bundle.min.js"></script>
+		<script src="https://www.truthandtransparency.org/assets/js/lazysizes.min.js"></script>
         
 	</body>
 </html>
